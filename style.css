@@ -1,0 +1,34 @@
+/* Style the entire page */
+body {
+    background-color: #FFD9A0; /* Pale orange background */
+    text-align: center;        /* Center all content */
+    font-family: Arial, sans-serif;
+}
+
+/* Style the heading */
+h1 {
+    color: #98FB98; /* Pale green text */
+}
+h2{
+    color: #050505;
+}
+
+/* Style the displayed image */
+img {
+    max-width: 1500px; /* Limit image size */
+    margin-top: 90px;
+}
+
+.img2 {
+     max-width: 300px; /* Limit image size */
+     margin-top: 20px;
+
+}
+
+/* Style the button */
+button {
+    margin-top: 30px;
+    padding: 15px 30px;
+    font-size: 24px;
+    cursor: pointer;
+}
